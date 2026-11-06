@@ -1,4 +1,7 @@
 # sudoku-console-c
+
+This C project is about Sudoku, a puzzle where you fill a grid without repeating digits in a row, column, or box. Use the rules below to understand the puzzle and how its console version is structured.
+
 Sudoku is a popular number puzzle game that involves filling a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids (known as "regions") contains all of the digits from 1 to 9, without repetition. The puzzle starts with some cells pre-filled with numbers, and your goal is to fill in the remaining cells following the rules of the game.
 Here's a step-by-step explanation of how to play Sudoku:
 
